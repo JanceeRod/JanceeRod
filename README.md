@@ -16,7 +16,15 @@
  
  🌱 Right now, learning **Web Development Fundamentals, Java, and Python**
 
- 📝 Relevant coursework I've taken so far includes **Data Structures and Algorithms, Object Oriented Programming, Modelling and Simulation, Database Systems, Computer Architecture, and Application Development**
+ 📝 Relevant coursework I've taken so far includes:
+ <ul>
+    <li>Data Structures and Algorithms
+    <li>Object Oriented Programming
+    <li>Computer Architecture
+    <li>Database Systems
+    <li>Modelling and Simulation
+    <li>Application Development
+ </ul>
 
  🎨 Aside from being a tech nerd, I'm also a graphic designer on the side
 
