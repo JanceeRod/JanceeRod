@@ -4,29 +4,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2200&lines=Hi+There!+👋;+Welcome+to+my+Github!;" />
 </h1>
 
-<h3 align="center">An aspiring Software Engineer from the Philippines</h3>
+<h3 align="center">An aspiring Machine Learning Researcher / Engineer from the Philippines</h3>
 
 <br/>
 
 <div align="left">
 
- 👋 Hey there! I'm Jan, a sophomore pursuing a degree in Computer Science at Xavier Ateneo. 👋
+ 👋 Hey there! I'm Jan, a junior pursuing a degree in Computer Science at Xavier Ateneo. 👋
  
- 🔭 I’m currently participating on **The Odin Project** and I'm making personal projects in my free time
+ 🔭 My interests revolves around novel architectures and cutting edge applications in **Computer Vision**, from Neural Style Transfer to 3D Reconstruction
  
- 🌱 Right now, learning **Web Development Fundamentals, Java, and Python**
+ 🌱 Right now, learning about the recent seminal architectures in AI/ML for the past decade like **Transformers, GANs, and Diffusion Models.**
 
  📝 Relevant coursework I've taken so far includes:
  <ul>
-    <li>Data Structures and Algorithms
-    <li>Object Oriented Programming
-    <li>Computer Architecture
-    <li>Database Systems
-    <li>Modelling and Simulation
-    <li>Application Development
+    <li>Pattern Recognition and Machin Learning
+    <li>Data Mining
+    <li>Linear Algebra
+    <li>Differential and Integral Calculus
  </ul>
 
- 🎨 Aside from being a tech nerd, I'm also a graphic designer on the side
+ 🎨 Aside from being a tech nerd, I'm also a merchandise designer on the side
 
  💬 Let's Connect! You can contact me through my socials below:
 
@@ -47,10 +45,9 @@
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,javascript,typescript,dart"/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" />
-    <img src="https://skillicons.dev/icons?i=idea,pycharm,phpstorm,vscode,github,git,mysql" />
-    <img src="https://skillicons.dev/icons?i=obsidian,ps,ai,pr,xd,figma" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,pytorch,tensorflow,vscode&theme=light"/>
+    <br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,java,git,github,idea,pycharm,webstorm&theme=light"/>
 </div>
 
 <br/>
